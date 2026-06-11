@@ -2,6 +2,13 @@
 
 A modern and responsive customer segmentation dashboard built with React and Tailwind CSS. The application visualizes different customer categories and presents customer profiles through an interactive card-based interface.
 
+
+## 🎥 Demo
+
+Added demo video link.
+
+https://github.com/user-attachments/assets/15913b67-9e75-450e-926b-ad5ef7a45e42
+
 ## 🚀 Features
 
 * Responsive UI design
@@ -30,12 +37,6 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
-
-## 🎥 Demo
-
-Add your demo video link here.
-
-https://github.com/user-attachments/assets/15913b67-9e75-450e-926b-ad5ef7a45e42
 
 ## ⚙️ Installation
 
