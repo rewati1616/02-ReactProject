@@ -76,5 +76,4 @@ npm run dev
 
 **Rewati Warhade**
 
-GitHub: https://github.com/rewati1616
 
