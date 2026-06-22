@@ -65,7 +65,7 @@ npm run dev
 ```
 
 ## 🎯 Learning Outcomes
-
+     
 * React component architecture
 * Props and data flow
 * Dynamic rendering using map()
