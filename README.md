@@ -4,7 +4,7 @@ A modern and responsive customer segmentation dashboard built with React and Tai
 
 
 ## 🎥 Demo
-
+   
 Added demo video link.
 
 https://github.com/user-attachments/assets/15913b67-9e75-450e-926b-ad5ef7a45e42
